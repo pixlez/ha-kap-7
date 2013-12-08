@@ -1,0 +1,43 @@
+*{
+	font-family:helvetica, arial;
+}
+
+h1{
+	text-align:center;
+	margin-top:200px;
+}
+form {
+	display:block;
+	width:500px;
+	margin:20px auto 0 auto;
+
+}
+
+
+
+input#search {
+	display:block;
+	width:100%;
+	font-size:50px;
+	line-height:20px:
+}
+
+button {
+	
+	
+}
+button.left {
+	width:49%;
+	float:left;
+}
+
+button.right {
+	width:49%;
+	float:right;
+}
+
+img {
+	width:88px;
+	display:block;
+	margin:100px auto 0 auto;
+}
